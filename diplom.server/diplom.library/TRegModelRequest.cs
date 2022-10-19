@@ -9,6 +9,9 @@ using Newtonsoft.Json.Linq;
 
 namespace diplom.library
 {
+    /// <summary>
+    /// Запрос с данными для модели, основанной на логистической регрессии.
+    /// </summary>
     public class TRegModelRequest : TRequest
     {
         #region Methods

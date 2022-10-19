@@ -11,6 +11,9 @@ using Newtonsoft.Json.Linq;
 
 namespace diplom.library
 {
+    /// <summary>
+    /// Конвертатор базовых типов к типам БД.
+    /// </summary>
     public static class TTypeConverter
     {
         private static Dictionary<Type,SqlDbType> fpSqlDbTypeDict;

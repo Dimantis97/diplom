@@ -14,6 +14,9 @@ using System.Data;
 
 namespace diplom.library
 {
+    /// <summary>
+    /// Обработчик запросов к серверу.
+    /// </summary>
     public class THandler
     {
         private HttpListenerRequest fpRequest;

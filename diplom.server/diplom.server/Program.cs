@@ -11,6 +11,7 @@ using diplom.library;
 
 namespace diplom.server
 {
+    // основное приложение сервера
     public class TServer
     {
         private static TConfig fpConfig;                          //конфиг
