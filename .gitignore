@@ -1,5 +1,5 @@
 /Data
-/packages
+/diplom.server/packages
 *.config
 
 /diplom.server/diplom.library/bin
