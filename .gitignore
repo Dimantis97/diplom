@@ -1,0 +1,13 @@
+./Data
+./packages
+*.config
+
+./diplom.library/bin
+./diplom.library/obj
+.diplom.library/Properties
+
+./diplom.server/bin
+./diplom.server/obj
+./diplom.server/Properties
+
+./Emulator
